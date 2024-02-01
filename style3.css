@@ -1,0 +1,30 @@
+body{
+
+    margin: 0;
+    padding: 0;
+    background-image: url();
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+.navbar_menu2{
+background: pink;
+   width: 100%;
+   display: flex;
+   justify-content: space-between;
+   margin: auto;
+}
+
+#products2{
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+#p5{
+
+    height: 600px;
+    width: 100%;
+
+}

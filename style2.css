@@ -15,6 +15,17 @@ body{
    justify-content: space-between;
    margin: auto;
 }
+a{
+   text-decoration: none;
+}
+.nav_button{
+   padding: 10px;
+   width: 150px;
+   border-radius: 50px;
+   margin-right: 10px;
+   cursor: pointer;
+   
+}
 
 ul{
 
@@ -47,3 +58,57 @@ ul{
     background: white;
    
 }
+#products{
+   display: grid;
+   grid-template-columns: 1fr 1fr 1fr;
+  
+}
+
+#p1{
+     
+     height:288px;
+     width: 100%;
+}
+#p2{
+   height: 288px;
+   width: 100%;
+}
+#p3{
+
+   height: 288px;
+   width: 100%;
+}
+#p4{
+
+   height: 288px;
+   width: 100%;
+}
+#p5{
+   height: 288px;
+   width: 100%;
+}
+
+
+#p6{
+
+   height: 288px;
+   width: 100%;
+}
+#p7{
+
+   height: 288px;
+   width: 100%;
+}
+
+#p8{
+
+
+   height: 288px;
+   width: 100%;
+}
+#p9{
+
+   height: 288px;
+   width: 100%;
+}
+
